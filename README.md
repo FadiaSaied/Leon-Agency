@@ -4,7 +4,7 @@ A responsive agency landing page built with HTML5 and CSS3, based on the Leon de
 
 ## Live Demo
 
-[View Live Demo](https://fadiasaied.github.io/Leon-Agency/)
+https://fadiasaied.github.io/Leon-Agency/
 
 ## Technologies
 
